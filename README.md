@@ -1,2 +1,2 @@
 # SteeringCommittee
-Organisaiton of the MIAPPE community. Minutes of the Meetings of the MIAPPE Steering Committee
+Organisation of the MIAPPE community. Minutes of the Meetings of the MIAPPE Steering Committee
